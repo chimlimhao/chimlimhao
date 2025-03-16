@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Chim Limhao from Cambodia.<br><br>- 🔭 a software developer.<br>- 📚 I'm currently a junior CS student.<br>- ⚡ In my free time I mostly workout, coding, listening to Bruno Mars, and eat.</p>
+<p align="left">I'm Chim Limhao from Cambodia.<br><br>- 💻 a software developer.<br>- 📚 I'm currently a junior CS student.<br>- ⚡ In my free time I mostly workout, coding, listening to Bruno Mars, and eat.</p>
 
 
 
